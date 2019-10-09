@@ -11,3 +11,5 @@ So far, I have learned:
 7. Clone a git repository.
 8. Explore basic git commands
 9. Commit changes to git from my workspace.
+10. Setting up GPG key.
+11. Signing local commits via GPG key generated.
