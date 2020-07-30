@@ -13,3 +13,4 @@ So far, I have learned:
 9. Commit changes to git from my workspace.
 10. Setting up GPG key.
 11. Signing local commits via GPG key generated.
+12. Update expired GPG key.
